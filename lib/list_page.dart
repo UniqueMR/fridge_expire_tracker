@@ -7,7 +7,7 @@ class ListPage extends StatefulWidget {
 
 class _ListPageState extends State<ListPage> {
   final List<Map<String, dynamic>> _foodList = [
-    {'name': 'Milk', 'daysToExpire': 3}
+    {'name': 'Milk', 'daysToExpire': 1}
   ];
 
   @override
